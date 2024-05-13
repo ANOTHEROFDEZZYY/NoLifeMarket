@@ -1,0 +1,95 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+  
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  header {
+    background-color: #35a53a;
+    color: #ffffff;
+    padding: 20px 0;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .hero {
+    background-image: url('hero-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #35a53a;
+    text-align: center;
+    padding: 80px 0;
+  }
+  
+  .product {
+    margin-bottom: 20px;
+  }
+  
+  .product img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+  }
+  
+
+  footer {
+    background-color: #25D366;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+
+  div button {
+    padding: 10px 20px;
+    font-size: 16px;
+    transform: transform 0.3s;
+    color: rgb(73, 156, 17);
+    
+  }
+
+  section{ 
+  .whatsapp-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+}
+
+  .whatsapp-button a {
+    background-color: #25D366;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+
+  .whatsapp-button a:hover{
+    background-color: #1da851;
+  }
